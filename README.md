@@ -297,6 +297,178 @@ Sección 3–5
 
 ![image](https://user-images.githubusercontent.com/105823435/171966553-4c9111b0-ce0c-48e1-abc8-7465e83df093.png)
 
+Es
+
+Problemas 
+
+Sección 4–1 Energía y potencia 
+
+2.Demuestre que hay 3.6 x 106 joules en un kilowatt-hora.
+ 
+1 kW = 1000 J/s
+
+1 kWh = 1000 J/s · 3600 s/ 1 h
+
+1 kWh = 3.6x106 J
+
+4.¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h? 
+
+P = W/t 
+
+P = 7500 J/3600s = 2.08W
+
+6.Convierta las siguientes cantidades en kilowatts: 
+
+a) 1000 W = 1kW
+
+b) 3750 W = 3.75kW
+
+c) 160 W = 0.16kW
+
+d) 50,000 W = 50kW
+
+8.Convierta las siguientes cantidades en miliwatts: 
+
+a) 1 W = 1000mW
+
+b) 0.4 W = 400mW
+
+c) 0.002 W = 2mW
+
+d) 0.0125 W = 12.5mW
+
+10.Convierta las siguientes cantidades en watts: 
+
+a) 1.5 kW = 1500W
+
+b) 0.5 MW = 500W
+
+c) 350 mW = 0.35W
+
+d) 9000µW = 0.009W
+
+12.Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?  
+300 W*720 horas = 216000 Wh = 216 kWh
+
+14.Convierta 5x106 watts-minutos en kWh.
+
+5000000 Wmin * 0.001mWh/1Wmin = 5000 kWh.
+
+16.¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J? 
+
+P = I²*R   
+
+P = (5) ² A * 47 Ω = 1175W   
+
+t = W/P
+
+t = 25J/1175W = 0.02s
+
+Sección 4–2 Potencia en un circuito eléctrico 
+
+18.Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+P = V*I
+
+P = 5.5V * (0.003) ² A = 4.95x10-5 W
+
+20.¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 Ω? 
+
+P = I²*R
+
+P = (0.5)² A * 4.7 Ω = 1.17W
+
+22.Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia? 
+
+P = V²/R
+
+P = (60) ² V/680 Ω = 5.29W
+
+24.Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido. 
+
+R = V/I
+
+R = 100V/2A = 50 Ω
+
+Sección 4–3 Clasificaciones de potencia en resistores 
+
+26.Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+V = I*R
+
+V =  (0.01A)*(6.8 kΩ)
+
+V =  0.068 V
+
+P = VI
+
+P = (0.068 V)*(0.01A)
+
+P = 6.8x10-4 W
+
+Energía y potencia 
+
+Sección 4–4 Conversión de energía y caída de voltaje en una resistencia 
+
+28.En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![image](https://user-images.githubusercontent.com/105823435/171967671-507bdeb4-dbdd-4068-a62b-07f8060bb0c9.png)
+
+Sección 4–5 Fuentes de potencia
+
+30.Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería? 
+
+P = V²/R
+
+P = 1.25²/10 Ω = 156mW
+
+32.Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora? 
+
+Ah = A*h
+
+Ah =1.5A*24h = 36Ah
+
+34.Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h? 
+
+0.65Ah = I*h
+
+I = 0.65Ah/48h
+
+I = 0.013 A
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+Eficiencia = Psalida/Pentrada
+
+Psalida = Pentrada* Eficiencia
+
+Psalida = 5W*85% = 5W*85/100
+
+Psalida =4.25W
+
+4-Video 
+
+https://www.youtube.com/watch?v=zVtQ3AcP-ZY&feature=youtu.be
+
+5-Conclusiones
+
+Se analizó y aplico los métodos expuestos en los capítulos tres y cuatro.
+
+Se analizó y aplico la ley de ohm.
+
+Se identificó y definió los términos energía y potencia.
+
+6-Bibliografía
+
+Diaz, M. (30 de Novimbre de 2017). Kosner. Obtenido de Kosner: https://www.kosner.es/relacion-potencia-energia/#:~:text=La%20potencia%20es%20el%20ritmo,hora%2C%20un%20a%C3%B1o%E2%80%A6).
+
+López, F. A. (23 de Mayo de 2004). Fresno. Obtenido de Fresno: http://fresno.pntic.mec.es/~fagl0000/circuito_serie.htm#:~:text=Se%20entiende%20por%20ca%C3%ADda%20de,que%20tenemos%20en%20el%20otro.
+
+Mora, J. J. (25 de Julio de 2005). Revistas utp. Obtenido de Revistas utp: https://revistas.utp.edu.co/index.php/revistaciencia/article/view/6801#:~:text=Los%20m%C3%A9todos%20de%20localizaci%C3%B3n%20de,un%20extremo%20de%20la%20l%C3%ADnea.
+
+Planas, O. (13 de Septiembre de 2021). Energia Solar . Obtenido de Energia Solar : https://solar-energia.net/electricidad/leyes/ley-de-ohm
+
+
 
 
 
