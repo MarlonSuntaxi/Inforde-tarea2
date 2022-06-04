@@ -77,6 +77,7 @@ V = R∗I
 V = 200Ω∗0.15A
 
 V = 30V
+
 14.¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta. 
 
 Si es una relación lineal porque el voltaje y la corriente son directamente proporcional. 
@@ -255,7 +256,7 @@ Sección 3–5
 
 ![image](https://user-images.githubusercontent.com/105823435/171966553-4c9111b0-ce0c-48e1-abc8-7465e83df093.png)
 
-El foco 4 porque tiene lescturas infinitas.
+El foco 4 porque tiene lecturas infinitas.
 
 Problemas 
 
@@ -395,7 +396,7 @@ I = 0.65Ah/48h
 
 I = 0.013 A
 
-36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+36.Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
 Eficiencia = Psalida/Pentrada
 
