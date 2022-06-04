@@ -141,51 +141,9 @@ I = V/R
 
 I = 12V/37.4 Ω = 0.32 A
 
-22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente? 
-
-La figura c tiene más corriente mientras que la figura a tiene menos corriente.
-12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada? 
-R = V/I
-R = 20V/0.1A
-R = 200Ω
-V = R∗I
-V = 200Ω∗0.15A
-V = 30V
-14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta. 
-Si es una relación lineal porque el voltaje y la corriente son directamente proporcional. 
-Sección 3–2 Cálculo de la corriente 
-16. Determine la corriente en cada caso: 
-a) V = 9V, R = 2.7 kΩ 
-I = V/R
-I = 9V/2700 Ω = 0.033A
-b) V = 5.5V, R = 10k Ω
-I = V/R
-I =5.5/10.000Ω= 5.5x10-4 A
-c) V = 40V, R = 68k Ω
-I = V/R
-I = 40V/68.000Ω = 5.88x10-4 A
-d) V = 1kV, R = 2.2k Ω
-I = V/R
-I = 1kV/2.2Ω = 0.45mA
-e) V = 66kV, R =10M Ω
-I = V/R
-I = 66kV/10.000k Ω = 6.6x10-3 mA
-18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor. 
-3300 Ω+-5%
-3300 + 5/100 = 3135 Ω
-Intensidad mínima 
-Imin = V/Rmin
-Imin = 12V/3135 = 3.83 mA
-Intensidad máxima 
-Imax = 12V/R
-Imax = 12V/3436 = 3.46 mA
-20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café. 
-37.4 Ω +-1%
-I = V/R
-I = 12V/37.4 Ω = 0.32 A
 22.El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente? 
 
-![image](https://user-images.githubusercontent.com/105823435/171966014-fa9b8d09-b187-4f88-9323-cc0f34c7bb68.png)
+![image](https://user-images.githubusercontent.com/105823435/171968225-b6264653-3803-428a-a61a-6fe0e4019139.png)
 
 Resistencia variable 120-100 = 20V
 
@@ -297,7 +255,7 @@ Sección 3–5
 
 ![image](https://user-images.githubusercontent.com/105823435/171966553-4c9111b0-ce0c-48e1-abc8-7465e83df093.png)
 
-Es
+El foco 4 porque tiene lescturas infinitas.
 
 Problemas 
 
@@ -348,6 +306,7 @@ c) 350 mW = 0.35W
 d) 9000µW = 0.009W
 
 12.Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?  
+
 300 W*720 horas = 216000 Wh = 216 kWh
 
 14.Convierta 5x106 watts-minutos en kWh.
@@ -467,16 +426,4 @@ López, F. A. (23 de Mayo de 2004). Fresno. Obtenido de Fresno: http://fresno.pn
 Mora, J. J. (25 de Julio de 2005). Revistas utp. Obtenido de Revistas utp: https://revistas.utp.edu.co/index.php/revistaciencia/article/view/6801#:~:text=Los%20m%C3%A9todos%20de%20localizaci%C3%B3n%20de,un%20extremo%20de%20la%20l%C3%ADnea.
 
 Planas, O. (13 de Septiembre de 2021). Energia Solar . Obtenido de Energia Solar : https://solar-energia.net/electricidad/leyes/ley-de-ohm
-
-
-
-
-
-
-
-
-
-
-
-
 
